@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".env.dist" type=".env file" />
+      <mapping pattern="contact" type="Twig" />
+      <mapping pattern="ss" type="TypeScript" />
+      <mapping pattern="dd" type="TypeScript" />
+    </extensionMap>
+  </component>
+</application>

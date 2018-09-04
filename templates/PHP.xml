@@ -1,0 +1,12 @@
+<templateSet group="PHP">
+  <template name="p" value="public function $END$(){&#10;    &#10;}" description="public function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="r" value="return $END$" description="return" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
