@@ -4,9 +4,9 @@
   </action>
   <action id="Exit" />
   <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="f13" />
+    <keyboard-shortcut first-keystroke="meta e_with_acute" />
   </action>
   <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="f14" />
+    <keyboard-shortcut first-keystroke="meta quotedbl" />
   </action>
 </keymap>
