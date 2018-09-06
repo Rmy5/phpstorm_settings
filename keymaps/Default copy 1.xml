@@ -2,6 +2,10 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="clear" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="ctrl colon" />
+  </action>
   <action id="Exit" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="meta e_with_acute" />
